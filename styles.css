@@ -6,6 +6,11 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
+.getstarted {
+    text-decoration: none;
+    color: #fff;
+}
+
 nav {
     height: 80px;
     background: #fdcc04;
